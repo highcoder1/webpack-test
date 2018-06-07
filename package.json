@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/highcoder1/webpack-test/issues"
   },
-  "homepage": "https://github.com/highcoder1/webpack-test#readme"
+  "homepage": "https://github.com/highcoder1/webpack-test#readme",
+  "dependencies": {
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0"
+  }
 }
